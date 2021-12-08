@@ -10,7 +10,7 @@ LAYOUT_PERSONS := RECORD
     STRING1 Gender;
     UNSIGNED1 DependentCount;
     STRING8 BirthDate;
-    STRING42 StreetAdress;
+    STRING42 StreetAddress;
     STRING20 City;
     STRING2 State;
     STRING5 ZipCode;
